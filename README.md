@@ -87,6 +87,8 @@ Incluindo orientações da entrega e notas de desenvolvimento.
 
  Integrantes do Grupo
 
-Christian Dynia Andrade
-
-Danilson Honorato da Silva Junior
+Christian Dynia Andrade  
+Danilson Honorato da Silva Junior  
+Fernanda Macedo Klein  
+Gustavo de Moraes Canals Silva  
+José Batista Neto
