@@ -1,0 +1,18 @@
+/
+├── README.md
+├── prototipos_interface/
+│   ├── figma-link.txt
+│   ├── cadastro_pf.png
+│   ├── cadastro_pj.png
+│   ├── cadastro_professor.png
+│   ├── cadastro_fornecedor.png
+│   └── cadastro_aluno.png
+├── diagrams_phase1/
+│   ├── caso_de_uso.png
+│   ├── diagrama_classes.png
+│   └── primeira_entrega.pdf
+├── sql/
+│   ├── create_tables.sql
+│   └── queries.sql
+└── docs/
+    └── orientacoes_entrega2.md
