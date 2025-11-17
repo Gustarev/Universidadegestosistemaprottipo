@@ -57,3 +57,36 @@ Documento completo da primeira entrega (PDF)
 
 Arquivos disponíveis em:
  /diagrams_Fase1/
+
+
+
+  3. Arquivos SQL (Banco de Dados)
+
+A modelagem do banco de dados foi iniciada conforme as classes e entidades definidas na modelagem UML.
+
+Os arquivos se encontram em:
+ /sql/
+
+Incluindo:
+
+ create_tables.sql – Estrutura inicial das tabelas
+
+ queries.sql – Consultas básicas para teste e validação
+
+
+
+ 4. Documentação Complementar
+
+Documentos adicionais da equipe se encontram em:
+ /docs/
+
+Incluindo orientações da entrega e notas de desenvolvimento.
+
+
+
+
+ Integrantes do Grupo
+
+Christian Dynia Andrade
+
+Danilson Honorato da Silva Junior
