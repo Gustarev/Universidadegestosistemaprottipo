@@ -1,0 +1,2 @@
+-- Estrutura inicial do banco (Fase 2)
+-- (Conteúdo pode ser preenchido depois)
