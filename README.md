@@ -39,3 +39,21 @@ Fluxo de navegação completo
 
 As imagens exportadas estão disponíveis em:
  /prototipos_interface/
+
+
+
+
+2. Diagramas da Fase 1 (UML)
+
+Conforme solicitado, foram incluídos:
+
+ Diagrama de Caso de Uso
+
+Diagrama de Classes
+
+Documento completo da primeira entrega (PDF)
+
+ Descrições de casos de uso, se aplicável
+
+Arquivos disponíveis em:
+ /diagrams_Fase1/
